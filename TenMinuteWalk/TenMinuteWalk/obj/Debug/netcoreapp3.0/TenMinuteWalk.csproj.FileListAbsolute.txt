@@ -1,0 +1,3 @@
+C:\Users\richa\source\repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.0\TenMinuteWalk.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.0\TenMinuteWalk.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.0\TenMinuteWalk.AssemblyInfo.cs
